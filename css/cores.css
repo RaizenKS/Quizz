@@ -1,0 +1,42 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* BACKGROUND */
+.bg-white{background-color: white;}
+.bg-black{background-color: black;}
+.bg-header{background-color: rgb(206, 54, 54);}
+.bg-blue{background-color: rgb(66, 66, 177);}
+.bg-blue-black{background-color: rgb(12, 12, 66);}
+
+/* COLORS TEXT*/
+
+.c-white{color: white;}
+.c-gray{color: #404241;}
+.c-black{color: black;}
+
+/* color com hover */
+.c-white-h{
+    color: white;
+}
+
+.c-white-h:hover{
+    color: rgb(221, 14, 14);
+}
+
+/* BOTÃO */
+
+.bt-whiteBlue{
+    background-color: rgb(255, 255, 255) ;
+}
+.bt-whiteBlue:hover{
+    background-color: rgb(37, 109, 168) ;
+    color: rgb(255, 255, 255) ;
+}
+
+/* BORDER */
+
+.border-b-white{
+    border-bottom: 3px solid white;
+}
+
+

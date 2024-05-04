@@ -1,0 +1,103 @@
+[
+    {
+        "pergunta": "Qual método é usado para converter uma string em um array em JavaScript?",
+        "numero": "1",
+        "letraA": "split()",
+        "letraB": "join()",
+        "letraC": "concat()",
+        "letraD": "slice()",
+        "resposta": "A"
+    },
+
+{
+    "pergunta":"A linguagem php é utilizada para qual fim?",
+    "numero":"2",
+    "letraA":"Front-End.",
+    "letraB":"Back-End.",
+    "letraC":"Sistema operacional.",
+    "letraD":"Banco de dados.", 
+    "resposta":"B"
+},
+{
+        "pergunta": "Qual é a função principal do JavaScript?",
+        "numero": "3",
+        "letraA": "Desenvolvimento Front-End",
+        "letraB": "Desenvolvimento Back-End",
+        "letraC": "Manipulação de banco de dados",
+        "letraD": "Programação de scripts do lado do cliente",
+        "resposta": "D"
+    },
+    {
+        "pergunta": "Qual símbolo é usado para comentários de uma linha em JavaScript?",
+        "numero": "4",
+        "letraA": "//",
+        "letraB": "/* */",
+        "letraC": "#",
+        "letraD": "--",
+        "resposta": "A"
+    },
+    {
+        "pergunta": "Qual é a maneira correta de declarar uma variável em JavaScript?",
+        "numero": "5",
+        "letraA": "vá variavel = valor",
+        "letraB": "var variavel = valor",
+        "letraC": "variavel = valor",
+        "letraD": "variável: valor",
+        "resposta": "B"
+    },
+    {
+        "pergunta": "O que é DOM em JavaScript?",
+        "numero": "6",
+        "letraA": "Documento Orientado a Modelos",
+        "letraB": "Desenvolvimento Orientado a Módulos",
+        "letraC": "Documento do Objeto de Modelo",
+        "letraD": "Modelo de Objeto do Documento",
+        "resposta": "D"
+    },
+    {
+        "pergunta": "Qual método é usado para exibir uma caixa de diálogo com uma mensagem em JavaScript?",
+        "numero": "7",
+        "letraA": "alert()",
+        "letraB": "confirm()",
+        "letraC": "prompt()",
+        "letraD": "display()",
+        "resposta": "A"
+    },
+    {
+        "pergunta": "Qual é o operador de igualdade estrita em JavaScript?",
+        "numero": "8",
+        "letraA": "==",
+        "letraB": "===",
+        "letraC": "!=",
+        "letraD": "!==",
+        "resposta": "B"
+    },
+    {
+        "pergunta": "Qual método é usado para adicionar um elemento ao final de um array em JavaScript?",
+        "numero": "9",
+        "letraA": "push()",
+        "letraB": "append()",
+        "letraC": "addToEnd()",
+        "letraD": "insertAtEnd()",
+        "resposta": "A"
+    },
+    {
+        "pergunta": "Qual método é usado para remover o último elemento de um array em JavaScript?",
+        "numero": "10",
+        "letraA": "remove()",
+        "letraB": "delete()",
+        "letraC": "pop()",
+        "letraD": "removeLast()",
+        "resposta": "C"
+    },
+    {
+        "pergunta": "Qual palavra-chave é usada para declarar uma função em JavaScript?",
+        "numero": "11",
+        "letraA": "func",
+        "letraB": "function",
+        "letraC": "fun",
+        "letraD": "define",
+        "resposta": "B"
+    }
+
+]

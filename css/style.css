@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+header{
+    width: 100vw;
+    height: 15vh;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius:25%;
+    margin-bottom: 30px;
+}
+
+/* Container box */
+main{
+    padding: 2rem;
+    border: 1px solid rgb(255, 255, 255);
+    margin: auto;
+    width: 50vw;
+}
+
+main button{
+    display: flex !important;
+    width: 80%;
+    align-items: center;
+    
+}
+
+
+.b-next{
+    min-width: max-content !important;
+    width: max-content !important;
+    display: inline !important;
+    border: none !important;
+    background-color: transparent !important;
+    font-size: 50px ;
+    position:absolute;
+    left: 50%;
+    top: 85%;
+}
+
+.letter{
+    background-color: rgb(212, 102, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    min-width: 40px;
+    min-height: 40px;
+    font-size: 1.7rem;
+}
+
+/* Section2  */
+
+.section2{
+    height: 60vh;
+}
+
+#reset{
+    text-align: center;
+    height: 15vh !important;
+    width: 60% !important;
+}
+
+/* Funcionalidades */
+
+.error{
+    background-color: red !important;
+}
+
+.victory{
+    background-color: rgb(13, 180, 35) !important;
+}
+
+.hidden{
+    display: none !important;
+}
+
+@media screen and (max-width: 600px) {
+    main{
+        padding: 2rem;
+        border: 1px solid rgb(255, 255, 255);
+        margin: auto;
+        width: 90vw;
+        max-width: none;
+        min-width: auto;
+    }
+
+    main button{
+        width: 90%;
+        min-width: auto;
+    }
+}
