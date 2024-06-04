@@ -11,3 +11,9 @@ Resultado final.
 
 ![Quizz-End](https://github.com/RaizenKS/Quizz/assets/144627312/cc8f9810-a814-414e-bec7-3669eaaf51a4)
 
+TECNOLOGIAS UTILIZADAS ⬇️
+
+▪️ HTML
+▪️ CSS
+▪️ JAVASCRIPT
+▪️ BOOTSTRAP
